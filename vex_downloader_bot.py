@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 import yt_dlp
 
-TOKEN = 'replace with your bot token from https://telegram.me/BotFather'
+TOKEN = '7202083219:AAEE3cNH1gMoM3vnGRq5fClyrE9DwjA3HBg'
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text('Send me a social media link to download.')
