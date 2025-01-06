@@ -1,0 +1,9 @@
+python-telegram-bot
+yt-dlp
+youtube_dl
+instaloader
+facebook-scraper
+tweepy
+pinterest-api
+pytube
+requests
